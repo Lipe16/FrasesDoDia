@@ -1,6 +1,6 @@
 # APP Frases do dia
 
-App criado no acompanhamento de um [https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux](curso da Udemy) ministrado por Jorge Sant Ana e Jamilton Damasceno.
+App criado no acompanhamento de um [curso da Udemy](https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux) ministrado por Jorge Sant Ana e Jamilton Damasceno.
 
 O objetivo deste app é mostrar técnicas de estilização no React Native.
 
